@@ -4,8 +4,8 @@ Se desarrolla un programa en Java estrictamente orientado a objetos que captura 
 
 El programa debe determinar el nombre y género del estudiante con mayor puesto y desplegar la descripción de la asignatura con mayor calificación. Luego debe obtener las notas de cada estudiante y se presentar sus promedios.
 
-[Ver PDF](https://raw.githubusercontent.com/faustinoaq/tareasjava/master/2.Encapsulacion/Encapsulacion.pdf)
+[Ver PDF](https://raw.githubusercontent.com/faustinoaq/tareas-java/master/2.Encapsulacion/Encapsulacion.pdf)
 
-![Encapsulacion](https://raw.githubusercontent.com/faustinoaq/tareasjava/master/2.Encapsulacion/Encapsulacion.png)
+![Encapsulacion](https://raw.githubusercontent.com/faustinoaq/tareas-java/master/2.Encapsulacion/Encapsulacion.png)
 
 Faustino Aguilar, 2015
